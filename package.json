@@ -1,6 +1,6 @@
 {
 	"name": "ascii-url-encoder",
-	"version": "0.9.0",
+	"version": "1.0.0",
 	"main": "src/index.js",
 	"description": "ASCII url ecoder and decoder",
 	"files": [
