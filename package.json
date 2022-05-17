@@ -1,7 +1,7 @@
 {
 	"name": "ascii-url-encoder",
-	"version": "1.0.0",
-	"main": "src/index.js",
+	"version": "1.1.0",
+	"main": "dist/index.js",
 	"description": "ASCII url ecoder and decoder",
 	"files": [
 		"dist"
