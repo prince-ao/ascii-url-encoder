@@ -1,6 +1,12 @@
 # ascii-url-encoder
 
-An ASCII url ecoder and decoder
+An ASCII url ecoder and decoder. 
+
+⚠️ The decoder is just
+```typescript
+decodeURIComponent(str)
+```
+All that was added is parentesis encoding.
 
 ## Installation
 
